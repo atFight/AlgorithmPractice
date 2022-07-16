@@ -1,2 +1,2 @@
-# LeetcodeTrace
-刷leetcode的一些记录
+# AlgorithmPractice
+刷题的一些记录
